@@ -7,11 +7,11 @@ right now i'm mostly doing three things:
 
 ### recently pushed
 <!-- RECENT:START -->
+- [skeleton-maker](https://github.com/nicolas-found42/skeleton-maker)
 - [logo-maker](https://github.com/nicolas-found42/logo-maker) — judged 3d logo pipeline in python + blender cycles (no ai image gen)
 - [society](https://github.com/nicolas-found42/society) — deterministic living-village simulation in rust
 - [chief-of-rust](https://github.com/nicolas-found42/chief-of-rust) — rust port of the Found42 chief-of-staff-demo app
 - [neural-racing](https://github.com/nicolas-found42/neural-racing) — top-down car learns an oval track with REINFORCE; small numpy policy rendered in pygame.
-- [knowledge-garden](https://github.com/nicolas-found42/knowledge-garden) — knowledge Garden
 <!-- RECENT:END -->
 
 ### most starred
