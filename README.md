@@ -7,11 +7,11 @@ right now i'm mostly doing three things:
 
 ### recently pushed
 <!-- RECENT:START -->
+- [logo-maker](https://github.com/nicolas-found42/logo-maker) — judged 3d logo pipeline in python + blender cycles (no ai image gen)
+- [lessons](https://github.com/nicolas-found42/lessons) — hands-on exercises for the Elephant–Goldfish Model
 - [world-borders](https://github.com/nicolas-found42/world-borders) — visual globe and timeline for historical borders
 - [chief-of-staff-demo](https://github.com/nicolas-found42/chief-of-staff-demo)
 - [chief-of-rust](https://github.com/nicolas-found42/chief-of-rust) — rust port of the Found42 chief-of-staff-demo app
-- [skeleton-maker](https://github.com/nicolas-found42/skeleton-maker)
-- [logo-maker](https://github.com/nicolas-found42/logo-maker) — judged 3d logo pipeline in python + blender cycles (no ai image gen)
 <!-- RECENT:END -->
 
 ### most starred
