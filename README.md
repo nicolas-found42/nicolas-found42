@@ -7,11 +7,11 @@ right now i'm mostly doing three things:
 
 ### recently pushed
 <!-- RECENT:START -->
+- [prompt-enhancer](https://github.com/nicolas-found42/prompt-enhancer)
 - [oversteer](https://github.com/nicolas-found42/oversteer)
 - [decompdecomp](https://github.com/nicolas-found42/decompdecomp) — a desktop app where AI agents decompile the games you own into C/C++ that rebuilds them byte for byte.
 - [chief-of-rust](https://github.com/nicolas-found42/chief-of-rust) — rust port of the Found42 chief-of-staff-demo app
 - [knowledge-garden](https://github.com/nicolas-found42/knowledge-garden) — knowledge Garden
-- [logo-maker](https://github.com/nicolas-found42/logo-maker) — judged 3d logo pipeline in python + blender cycles (no ai image gen)
 <!-- RECENT:END -->
 
 ### most starred
