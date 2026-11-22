@@ -7,11 +7,11 @@ right now i'm mostly doing three things:
 
 ### recently pushed
 <!-- RECENT:START -->
+- [neuro-arena](https://github.com/nicolas-found42/neuro-arena) — zero-dependency NEAT neuroevolution learns to play Asteroids in the browser — 21 sensors, novelty + entropy shaping, 10000x speed slider
 - [knowledge-garden](https://github.com/nicolas-found42/knowledge-garden) — knowledge Garden
 - [prompt-enhancer](https://github.com/nicolas-found42/prompt-enhancer)
 - [oversteer](https://github.com/nicolas-found42/oversteer)
 - [decompdecomp](https://github.com/nicolas-found42/decompdecomp) — a desktop app where AI agents decompile the games you own into C/C++ that rebuilds them byte for byte.
-- [chief-of-rust](https://github.com/nicolas-found42/chief-of-rust) — rust port of the Found42 chief-of-staff-demo app
 <!-- RECENT:END -->
 
 ### most starred
