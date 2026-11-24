@@ -7,11 +7,11 @@ right now i'm mostly doing three things:
 
 ### recently pushed
 <!-- RECENT:START -->
+- [3d-agent-studio](https://github.com/nicolas-found42/3d-agent-studio) — agent-agnostic Blender and FFmpeg studio for vertical and horizontal animation
 - [world-borders](https://github.com/nicolas-found42/world-borders) — visual globe and timeline for historical borders
 - [chief-of-staff-demo](https://github.com/nicolas-found42/chief-of-staff-demo)
 - [chief-of-rust](https://github.com/nicolas-found42/chief-of-rust) — rust port of the Found42 chief-of-staff-demo app
 - [skeleton-maker](https://github.com/nicolas-found42/skeleton-maker)
-- [neuro-arena](https://github.com/nicolas-found42/neuro-arena) — zero-dependency NEAT neuroevolution learns to play Asteroids in the browser — 21 sensors, novelty + entropy shaping, 10000x speed slider
 <!-- RECENT:END -->
 
 ### most starred
