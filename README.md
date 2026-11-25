@@ -7,11 +7,11 @@ right now i'm mostly doing three things:
 
 ### recently pushed
 <!-- RECENT:START -->
+- [nba-warehouse](https://github.com/nicolas-found42/nba-warehouse) — locally built NBA/BAA/ABA DuckDB warehouse: games since 1946, boxes, play-by-play, shots, draft, awards, rosters, referees, betting links. Code and docs only.
 - [3d-agent-studio](https://github.com/nicolas-found42/3d-agent-studio) — agent-agnostic Blender and FFmpeg studio for vertical and horizontal animation
 - [world-borders](https://github.com/nicolas-found42/world-borders) — visual globe and timeline for historical borders
 - [chief-of-staff-demo](https://github.com/nicolas-found42/chief-of-staff-demo)
 - [chief-of-rust](https://github.com/nicolas-found42/chief-of-rust) — rust port of the Found42 chief-of-staff-demo app
-- [skeleton-maker](https://github.com/nicolas-found42/skeleton-maker)
 <!-- RECENT:END -->
 
 ### most starred
