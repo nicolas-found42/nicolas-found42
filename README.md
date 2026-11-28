@@ -7,10 +7,10 @@ right now i'm mostly doing three things:
 
 ### recently pushed
 <!-- RECENT:START -->
+- [nba-warehouse](https://github.com/nicolas-found42/nba-warehouse) — locally built NBA/BAA/ABA DuckDB warehouse: games since 1946, boxes, play-by-play, shots, draft, awards, rosters, referees, betting links. Code and docs only.
+- [3d-agent-studio](https://github.com/nicolas-found42/3d-agent-studio) — turn prompts and reference files into editable Blender scenes, animated videos, and review boards through a local CLI or MCP client.
 - [knowledge-garden](https://github.com/nicolas-found42/knowledge-garden) — knowledge Garden
 - [prompt-enhancer](https://github.com/nicolas-found42/prompt-enhancer)
-- [3d-agent-studio](https://github.com/nicolas-found42/3d-agent-studio) — turn prompts and reference files into editable Blender scenes, animated videos, and review boards through a local CLI or MCP client.
-- [nba-warehouse](https://github.com/nicolas-found42/nba-warehouse) — locally built NBA/BAA/ABA DuckDB warehouse: games since 1946, boxes, play-by-play, shots, draft, awards, rosters, referees, betting links. Code and docs only.
 - [world-borders](https://github.com/nicolas-found42/world-borders) — visual globe and timeline for historical borders
 <!-- RECENT:END -->
 
